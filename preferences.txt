@@ -1,0 +1,6 @@
+Preferences:
+favourite movie: "G. I. Jane"
+favourite tv show: "Friends"
+favourite food: pizza
+favourite season: winter
+country to travel: Italy

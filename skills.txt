@@ -1,0 +1,8 @@
+Skills:
+Git
+Postman
+DevTools
+Charles Proxy
+GitBash
+Fiddler
+
