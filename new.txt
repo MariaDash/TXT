@@ -1,6 +1,6 @@
 Info:
-Mariia
-Dashkova
+name: Mariia
+surname: Dashkova
 Age: 35
 Pets: 0
 Salary" $1500
