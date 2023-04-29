@@ -1,1 +1,6 @@
-
+info:
+Mariia
+Dashkova
+Age 35
+Pets 0
+Salary $1500
