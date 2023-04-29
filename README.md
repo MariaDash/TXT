@@ -206,7 +206,7 @@ nothing to commit, working tree clean
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/TXT (main)
 $
 ```
-# 13. Send at once two files to the remote repository
+## 13. Send at once two files to the remote repository
 ```
 Admin@DESKTOP-V6V9F0T MINGW64 /d/Testing_Course/Git/TXT (main)
 $ git push
