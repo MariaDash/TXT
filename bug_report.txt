@@ -1,1 +1,15 @@
-Here is bug report
+ID:1
+Module: LogIn
+Title: "Login" button disabled when pushing it after adding valid login&password
+Test_Data:login:Adam; password:abc123
+Pre-condition: user is registered
+Env: Windows 10, Google Chrome 112, Firefox, Opera
+STR: 1. Navigate to the site.com
+     2. In the login block enter test data in login and password fields
+     3. Push "login" button
+     4. Login button is disabled. No warning message.
+ER: Login button is enabled, user log in.
+AR: Login button is disabled. User can not log in.
+Link_attach: Link
+Bug_started:@me
+Bug_Repro:@someone_else
