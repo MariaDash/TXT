@@ -1,4 +1,4 @@
-# TXT_GIT_Homework_1
+# TXT_GIT
 ## 1. Create an external repository called XML_GIT on Github site.
 I go to https://github.com/MariaDash, click "Repositories", click "New", make it Public, add README.md file, create repository.
 ## 2. Clone repository to local PC
